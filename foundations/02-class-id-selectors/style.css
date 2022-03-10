@@ -1,0 +1,19 @@
+.cl {
+    background-color: rgb(250, 112, 112);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.n3 {
+    font-size: 24px;
+}
+
+#n2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#n4 {
+    background-color: rgb(124, 209, 124);
+    font-size: 24px;
+    font-weight: bold;
+}
